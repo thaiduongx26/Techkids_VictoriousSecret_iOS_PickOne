@@ -6,4 +6,6 @@
 //  Copyright © 2016 VS. All rights reserved.
 //
 
-import Foundation
+class ListStore{
+    static var list = [Store]()
+}

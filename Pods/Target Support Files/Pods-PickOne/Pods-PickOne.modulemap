@@ -1,0 +1,6 @@
+framework module Pods_PickOne {
+  umbrella header "Pods-PickOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
